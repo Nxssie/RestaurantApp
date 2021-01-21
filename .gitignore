@@ -1,0 +1,6 @@
+/.idea/
+/out/
+/Server/.idea/
+/Server/*.iml
+/Client/*.iml
+*.iml
